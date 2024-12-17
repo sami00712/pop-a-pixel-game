@@ -37,7 +37,7 @@ const PrivacyPolicy: React.FC<PrivacyPolicyProps> = ({ onClose }) => {
         </p>
         <h3 className="text-xl font-semibold mb-2">5. Contact Us</h3>
         <p>
-          If you have any questions about this privacy policy, please contact us at privacy@popapixel.com.
+          If you have any questions about this privacy policy, please contact us at samiqaimkhani43@gmail.com.
         </p>
       </div>
     </div>

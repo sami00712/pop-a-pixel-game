@@ -21,7 +21,7 @@ const AboutUs: React.FC<AboutUsProps> = ({ onClose }) => {
         </p>
         <h3 className="text-xl font-semibold mb-2">Our Story</h3>
         <p className="mb-4">
-          Pop-a-Pixel was created by a small team of passionate game developers who wanted to bring joy and excitement to people's daily lives. Our goal was to create a simple yet engaging game that anyone could play, regardless of age or gaming experience.
+          Pop-a-Pixel was created by SamiQaimKhani of passionate game developers who wanted to bring joy and excitement to people's daily lives. Our goal was to create a simple yet engaging game that anyone could play, regardless of age or gaming experience.
         </p>
         <h3 className="text-xl font-semibold mb-2">Our Mission</h3>
         <p className="mb-4">
@@ -33,7 +33,7 @@ const AboutUs: React.FC<AboutUsProps> = ({ onClose }) => {
         </p>
         <h3 className="text-xl font-semibold mb-2">Contact Us</h3>
         <p>
-          We love hearing from our players! If you have any questions, suggestions, or just want to say hello, please don't hesitate to reach out to us at hello@popapixel.com.
+          We love hearing from our players! If you have any questions, suggestions, or just want to say hello, please don't hesitate to reach out to us at samiqaimkhani43@gmail.com.
         </p>
       </div>
     </div>
